@@ -1,0 +1,18 @@
+h1 {
+	color: white; 
+}
+body {
+  font-family: cursive;
+  background: pink;
+}
+h2 { 
+	text-transform: uppercase;
+
+}
+p {
+	margin-top: 50px;
+
+}
+li {
+     color: white 
+}
