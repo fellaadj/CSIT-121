@@ -1,0 +1,13 @@
+img{
+    width: 500px;
+}
+img{
+    height: 300px;
+}
+img {
+ -webkit-filter: grayscale(100%);
+}
+img {
+  -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
