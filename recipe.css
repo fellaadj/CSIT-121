@@ -16,3 +16,12 @@ p {
 li {
      color: white 
 }
+img{
+    width: 500px;
+}
+img{
+    height: 300px;
+}
+#grad {
+  background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
